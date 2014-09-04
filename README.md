@@ -1,4 +1,4 @@
 SoftwareDesign
 ==============
 
-Project for Software Design course in my final year of bachelor's studies.
+Project for Software Design course in final year of my bachelor's studies.
